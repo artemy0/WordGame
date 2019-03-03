@@ -1,0 +1,12 @@
+D:\C#\WordGame\WordGame\WordGame\bin\Debug\WordGame.exe.config
+D:\C#\WordGame\WordGame\WordGame\bin\Debug\WordGame.exe
+D:\C#\WordGame\WordGame\WordGame\bin\Debug\WordGame.pdb
+D:\C#\WordGame\WordGame\WordGame\obj\Debug\WordGame.csprojAssemblyReference.cache
+D:\C#\WordGame\WordGame\WordGame\obj\Debug\WordGame.csproj.CoreCompileInputs.cache
+D:\C#\WordGame\WordGame\WordGame\obj\Debug\WordGame.exe
+D:\C#\WordGame\WordGame\WordGame\obj\Debug\WordGame.pdb
+D:\C#\WordGame\WordGame\WordGame\bin\Debug\ClassLibrary.dll
+D:\C#\WordGame\WordGame\WordGame\bin\Debug\ClassLibrary.pdb
+D:\C#\WordGame\WordGame\WordGame\obj\Debug\WordGame.csproj.CopyComplete
+D:\C#\WordGame\WordGame\WordGame\bin\Debug\PagedList.dll
+D:\C#\WordGame\WordGame\WordGame\bin\Debug\PagedList.xml

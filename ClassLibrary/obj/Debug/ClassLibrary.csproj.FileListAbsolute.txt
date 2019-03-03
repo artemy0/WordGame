@@ -1,0 +1,6 @@
+D:\C#\WordGame\WordGame\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\C#\WordGame\WordGame\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\C#\WordGame\WordGame\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\C#\WordGame\WordGame\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\C#\WordGame\WordGame\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\C#\WordGame\WordGame\ClassLibrary\obj\Debug\ClassLibrary.pdb
